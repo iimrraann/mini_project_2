@@ -35,7 +35,7 @@ The Python code can be run locally to replicate the study's findings. Requiremen
 
 ## Project Report
 
-For a comprehensive understanding of the project, methodologies, and findings, please refer to the Project Report at: iimrraann.github.io/term_loan_website
+For a comprehensive understanding of the project, methodologies, and findings, please refer to the Project Report at: [iimrraann.github.io/term_loan_website](iimrraann.github.io/term_loan_website)
 
 ## Contributions
 
