@@ -17,7 +17,7 @@ This project develops a predictive model for XYZ Bank to identify potential clie
 
 **Code:** Contains the complete Python code for data preprocessing, model training, evaluation, and customer segmentation (cluster analysis).
 
-**Report:** A detailed analysis report is available, hosted as an HTML file on GitHub Pages. This report encompasses all phases of the project, from exploratory data analysis to model evaluation and conclusions. The report is a replacement for the Word document because we could make code blocks and scrollable elements in HTML instead of Word document along with other prettification objects such as an interactive table of contents. 
+**Report:** A detailed analysis report is available, hosted as an HTML file on GitHub Pages. This report encompasses all phases of the project, from exploratory data analysis to model evaluation and conclusions. The report is a replacement for the Word document because we could make code blocks and scrollable elements in HTML instead of Word document along with other prettification objects such as an interactive table of contents. The HTML file of the report has also been added to this repository as index.html'
 
 **Saved Model:** The best-performing model is saved by using the pyspark 'save' command which makes a folder of the saved model and the same can be found in the repository for further use or replication of the study.
 
