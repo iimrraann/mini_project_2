@@ -39,7 +39,7 @@ For a comprehensive understanding of the project, methodologies, and findings, p
 
 ## Contributions
 
-This project is a collaborative effort for the BAN 5753 course, meticulously completed by team 7. Our team members, each contributing their unique expertise and insights, include:
+This project is a collaborative effort for the BAN 5753 course, meticulously completed by team 7 (Metric Masters). Our team members, each contributing their unique expertise and insights, include:
 
 Haider, Muhammad Imran (muhaide@okstate.edu)
 
